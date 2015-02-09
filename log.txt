@@ -1,0 +1,23 @@
+Start: Sun, 8 Feb 2015 17:00:00 -0500
+End: Sun, 8 Feb 2015 23:33:44 -0500
+Tasks: finished assignment
+
+Start: Sat, 7 Feb 2015 10:00:00 -0500
+End: Sat, 7 Feb 2015 14:43:18 -0500
+Tasks: finished loopback.php
+
+Start: Thu, 5 Feb 2015 19:00:00 -0500
+End: Thu, 5 Feb 2015 20:04:01 -0500
+Tasks: finished multtable.php
+
+Start: Thu, 5 Feb 2015 12:00:00 -0500
+End: Thu, 5 Feb 2015 13:04:17 -0500
+Tasks: finished adding error-checking for parameters
+
+Start: Wed, 4 Feb 2015 18:00 -0500
+End: Wed, 4 Feb 2015 21:25:46 -0500
+Tasks: Completed working on passing and testing parameters for multtable.php
+
+Start: Wed, 4 Feb 2015 12:20:10 -0500
+End: Wed, 4 Feb 2015 12:48:22 -0500
+Tasks: initial setup
